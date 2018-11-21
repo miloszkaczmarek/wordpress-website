@@ -1,1 +1,3 @@
 .themify_builder .post-7-0-0-0.module-post{margin-right:150px; margin-left:150px; }
+@media screen and (max-width: 680px) {.themify_builder .post-7-0-0-0.module-post{margin-right:0px; margin-left:0px; }
+}
