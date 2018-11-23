@@ -1912,6 +1912,7 @@ var FixedHeader = {}, LayoutAndFilter = {}, themifyScript, ThemifySlider, Themif
 		}
 	}
 
+
 	/* COMMENT FORM ANIMATION */
 	$('input, textarea').focus(function(){
 		$(this).parents('#commentform p').addClass('focused');
